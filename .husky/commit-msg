@@ -1,2 +1,0 @@
-# Ahead of creating the commit, validate the commit message.
-pnpm --silent ng-dev commit-message pre-commit-validate --file $1;

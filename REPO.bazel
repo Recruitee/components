@@ -1,9 +1,0 @@
-ignore_directories([
-    ".git",
-    "dist",
-    "integration/yarn-pnp-compat/.yarn/cache",
-    "integration/yarn-pnp-compat/.yarn/unplugged",
-    "integration/yarn-pnp-compat/.yarn/install-state.gz",
-    "**/.angular/**",
-    "**/node_modules/**",
-])

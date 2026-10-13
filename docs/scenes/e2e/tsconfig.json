@@ -1,7 +1,0 @@
-{
-  "extends": "../../../src/bazel-tsconfig-test.json",
-  "compilerOptions": {
-    "declaration": true,
-    "types": ["jasmine", "selenium-webdriver", "node"]
-  }
-}
