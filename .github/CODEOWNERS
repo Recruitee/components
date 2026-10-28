@@ -1,1 +1,5 @@
+# Overridden for Recruitee ownership (replaces inherited angular/components
+# upstream owners). A future upstream sync may try to reintroduce per-path
+# individual owners here via merge conflict — keep this line, do not accept
+# upstream's version. The codeowners-lint check will fail if it reverts.
 * @Recruitee/foundation-fe
