@@ -1,0 +1,9 @@
+name: CODEOWNERS lint
+on:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  codeowners-lint:
+    uses: Recruitee/github-workflows/.github/workflows/codeowners-lint.yml@2.18.0
+    secrets: inherit
